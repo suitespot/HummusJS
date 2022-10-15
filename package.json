@@ -1,5 +1,5 @@
 {
-  "name": "hummus",
+  "name": "@suitespot/hummus",
   "version": "1.0.110",
   "description": "Create, read and modify PDF files and streams",
   "homepage": "http://pdfhummus.com/",
